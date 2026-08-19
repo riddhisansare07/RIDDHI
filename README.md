@@ -1,3 +1,2 @@
-Author name-Riddhi Sansare
-Date-30/6/2026
+Author name-Riddhi Sansare.
 This is my first repository..
